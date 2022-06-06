@@ -1,0 +1,2 @@
+examplemod1.jar
+examplemod2.jar
